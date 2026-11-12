@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joker Theatre Heist</string>
+
+    <string name="splash_title">JOKER THEATRE HEIST</string>
+    <string name="splash_subtitle">A ROYAL JOKER MASQUERADE</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="menu_title">JOKER THEATRE HEIST</string>
+    <string name="menu_tagline">MEMORIZE THE PATROL · WALK THE SHADOWS</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_next_act">NEXT ACT</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_collection">COLLECTION</string>
+    <string name="cta_progress">PROGRESS</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_bell">BELL %1$d</string>
+    <string name="cta_wait">WAIT</string>
+    <string name="cta_restart">RESTART</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_reset_progress">RESET PROGRESS</string>
+    <string name="cta_equip">EQUIP</string>
+    <string name="cta_equipped">EQUIPPED</string>
+
+    <string name="fraction">%1$d / %2$d</string>
+    <string name="glyph_star">★</string>
+
+    <string name="title_level_select">LEVEL SELECT</string>
+    <string name="title_collection">COLLECTION</string>
+    <string name="title_progress">PROGRESS</string>
+    <string name="title_settings">SETTINGS</string>
+
+    <string name="act_one">ACT I</string>
+    <string name="act_two">ACT II</string>
+    <string name="act_three">ACT III</string>
+
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">OPEN</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_owned">OWNED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="header_act">ACT %1$d · %2$d</string>
+    <string name="header_moves">MOVES %1$d</string>
+
+    <string name="rehearsal_title">REHEARSAL - MEMORIZE THE PATROL</string>
+    <string name="rehearsal_countdown">%1$d</string>
+    <string name="rehearsal_hint">THE USHERS WALK THEIR LOOP ONCE</string>
+    <string name="control_hint">TAP A GLOWING TILE TO MOVE</string>
+
+    <string name="pause_title">INTERMISSION</string>
+    <string name="pause_moves">MOVES LEFT %1$d</string>
+    <string name="pause_pieces">COSTUME PIECES %1$d / %2$d</string>
+
+    <string name="restart_title">RESTART THE ACT</string>
+    <string name="restart_message">The stage resets to turn zero with a full move budget.</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">Stars, scores, costumes and unlocked acts will be cleared.</string>
+
+    <string name="result_win_title">CURTAIN CALL</string>
+    <string name="result_spotted_title">SPOTTED</string>
+    <string name="result_moves_title">THE CURTAIN FALLS</string>
+    <string name="result_win_line">YOU SLIPPED THROUGH THE STAGE DOOR</string>
+    <string name="result_spotted_line">AN USHER CAUGHT YOUR MASK</string>
+    <string name="result_moves_line">THE HOUSE LIGHTS CAME UP</string>
+    <string name="result_new_best">NEW BEST</string>
+    <string name="result_best_score">BEST SCORE FOR THIS ACT %1$d</string>
+
+    <string name="stat_acts_cleared">ACTS CLEARED</string>
+    <string name="stat_best_score">BEST SCORE</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_costume">COSTUME</string>
+    <string name="stat_moves_left">MOVES LEFT</string>
+    <string name="stat_total_score">TOTAL SCORE</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_levels_cleared">LEVELS CLEARED</string>
+    <string name="stat_best_escape">BEST ESCAPE</string>
+
+    <string name="collection_empty">NO COSTUMES YET - FIND PIECES IN THE WINGS</string>
+    <string name="collection_pieces">PIECES %1$d / %2$d</string>
+
+    <string name="progress_empty">PLAY AN ACT TO OPEN YOUR RECORD</string>
+    <string name="progress_acts">ACTS</string>
+    <string name="progress_clean_runs">CLEAN RUNS %1$d</string>
+
+    <string name="settings_rehearsal">REHEARSAL LENGTH</string>
+    <string name="settings_cones">PATROL CONES</string>
+    <string name="settings_stage">STAGE</string>
+    <string name="settings_contrast">HIGH CONTRAST</string>
+    <string name="settings_contrast_hint">Brighter cones and thicker tile borders.</string>
+    <string name="settings_motion">REDUCED MOTION</string>
+    <string name="settings_motion_hint">Stops looping decor and shortens step animations.</string>
+    <string name="settings_hints">MOVE HINTS</string>
+    <string name="settings_hints_hint">Glow the tiles the Joker can step onto.</string>
+    <string name="rehearsal_short">SHORT 3S</string>
+    <string name="rehearsal_standard">STANDARD 5S</string>
+    <string name="rehearsal_long">LONG 8S</string>
+    <string name="cones_rehearsal_only">REHEARSAL ONLY</string>
+    <string name="cones_always">ALWAYS VISIBLE</string>
+
+    <string name="room_prompt_box">THE PROMPT BOX</string>
+    <string name="room_foyer">GILDED FOYER</string>
+    <string name="room_costume_vault">COSTUME VAULT</string>
+    <string name="room_orchestra_pit">ORCHESTRA PIT</string>
+    <string name="room_mirror_corridor">MIRROR CORRIDOR</string>
+    <string name="room_chandelier_loft">CHANDELIER LOFT</string>
+    <string name="room_royal_box">ROYAL BOX</string>
+    <string name="room_scenery_dock">SCENERY DOCK</string>
+    <string name="room_fly_tower">THE FLY TOWER</string>
+    <string name="room_velvet_staircase">VELVET STAIRCASE</string>
+    <string name="room_paint_frame">PAINT FRAME</string>
+    <string name="room_under_the_stage">UNDER THE STAGE</string>
+
+    <string name="costume_harlequin">THE GILDED HARLEQUIN</string>
+    <string name="costume_domino">VELVET DOMINO</string>
+    <string name="costume_pierrot">PORCELAIN PIERROT</string>
+    <string name="costume_bells">CROWN OF BELLS</string>
+    <string name="costume_columbine">MIDNIGHT COLUMBINE</string>
+    <string name="costume_capitano">BRASS CAPITANO</string>
+    <string name="costume_scaramouche">FEATHERED SCARAMOUCHE</string>
+    <string name="costume_pantalone">LANTERN PANTALONE</string>
+
+    <string name="cd_brand_crest">Royal Joker crest</string>
+    <string name="cd_back_to_menu">Back to the menu</string>
+    <string name="cd_pause">Pause the act</string>
+    <string name="cd_performer">Masked performer</string>
+    <string name="cd_usher">Theatre usher</string>
+    <string name="cd_prop_trunk">Stage trunk</string>
+    <string name="cd_costume_piece">Costume piece</string>
+    <string name="cd_stage_door">Stage door</string>
+    <string name="cd_stars">%1$d of %2$d stars</string>
+</resources>
